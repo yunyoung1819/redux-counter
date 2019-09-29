@@ -1,0 +1,18 @@
+.Counter {
+    /* 레이아웃 */
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+    /* 색 상 */
+    color: white;
+    /* 폰 트 */
+    font-size: 3rem;
+    /* 기 타 */
+    border-radius: 100%;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color: 0.75s;
+}
